@@ -1,6 +1,8 @@
-TgCrypto
-pymongo[srv]
+TgCrypto==1.2.5
+pymongo[srv]==4.8.0
 Flask==2.2.2
 gunicorn==20.1.0
 aiohttp==3.8.0
-pyrogram
+pyrogram==2.0.106
+pyaes==1.6.1
+pysocks==1.7.1
